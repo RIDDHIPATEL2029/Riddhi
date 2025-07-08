@@ -3,7 +3,7 @@ Hello world , This is my profile
 <!-- Profile README.md -->
 
 <!-- Banner Image (Optional - replace with your own hosted image URL or GitHub-hosted one) -->
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Banner" style="width:100%; border-radius:10px;"/>
+<!--<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Banner" style="width:100%; border-radius:10px;"/>-->
 
 <h1 align="center">Hi 👋, I'm Riddhi Patel</h1>
 <h3 align="center">Computer Engineer | Software Developer | Technical Writer</h3>
