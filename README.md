@@ -7,15 +7,11 @@
   <img src="https://img.shields.io/github/followers/riddhi-patel?label=Followers&style=social" />
 </p>
 
----
-
 ## 🚀 About Me
 - 🎓 Computer Engineering Student  
 - 💡 Passionate about Software Development & Technical Writing  
 - ✍️ Experienced in Academic Reports & Thesis Documentation  
 - 🌱 Currently learning advanced development frameworks  
-
----
 
 ## 💻 Tech Stack
 
@@ -26,8 +22,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
-
----
 
 ## 📑 Reports & Thesis Writing
 
@@ -43,14 +37,10 @@
 - Grammarly  
 - Zotero  
 
----
-
 ## 🔭 Current Projects
 - 🚀 Multi-language application development (C#, Java, Python)  
 - 🌐 Dynamic web development using HTML & PHP  
 - 📚 Academic and technical content writing  
-
----
 
 ## 📊 GitHub Stats
 
@@ -62,8 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi-patel&theme=radical" />
 </p>
 
----
-
 ## 🌐 Connect With Me
 
 <p>
@@ -71,17 +59,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-Riddhi%20Patel-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   
-  <a href="mailto:patelriddhi200029@gmail.com">
+  <a href="patelriddhi200029@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
 ## ✨ Fun Fact
 💡 I combine **coding skills** with **technical writing** to build impactful software and professional documentation.
-
----
 
 ## 📜 Quote
 > “Engineering is the art of directing the great sources of power in nature for the use and convenience of man.”  
