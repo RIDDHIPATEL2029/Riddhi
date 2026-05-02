@@ -85,9 +85,9 @@
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://instagram.com/your_company_page https://www.instagram.com/archersedge_?igsh=MTVyY3FyOGk2dWpiZA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Company%20Page-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <a href="https://www.instagram.com/archersedge_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Company%20Page-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 ---
